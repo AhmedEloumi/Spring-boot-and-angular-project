@@ -1,0 +1,5 @@
+CorrelationId: 0e507ed2-3959-4d34-879c-26e08eb7c914
+UTC DateTime: 02/22/2023 19:08:45
+
+The following file/folder has not been downloaded
+0. Full-Stack-Angular-e-commerce/Angular ecommerce/node_modules
